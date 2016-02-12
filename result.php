@@ -93,7 +93,7 @@ function getStoryImage($images)
   <h2>Enter URL</h2>
   <form role="form">
     <div class="form-group">
-      <input type="text" class="form-control" id="submit" >
+      <input type="text" class="form-control" name="url" >
     </div>
   </form>
 </div>
