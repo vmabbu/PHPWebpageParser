@@ -1,4 +1,4 @@
-The PHP Webpage Parser is a PHP application which is designed to parse the given webpage. The parser is tested only for the website "CNN.com" as each website follows their own formats. This application parses through the given article and extracts content in the "<title>, <meta>, <p>, <h1>, <h2>, <h3> and <a>" tags. This application did not used any PHP native/other libraries for parsing.
+The PHP Webpage Parser is a PHP application which is designed to parse the given webpage. The parser is tested only for the website "CNN.com" as each website follows their own formats. This application parses through the given article and extracts content in the title, meta, p, h1, h2, h3, image and anchor tags. This application did not used any PHP native/other libraries for parsing.
 
 
 This application contains following files
