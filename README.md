@@ -13,6 +13,6 @@ Instructions
 2. Open browser and type "http://localhost/PHPWebpageParser/"
 3. You may paste an article URL or select an article from the given list.
 4. The list in the hompage is directly loaded from the CNN website (cnn.com/world/) which changes by time.
-5. The application is hosted on "iknow.xyz/PHPWebpageParser/" which gives you a live demo.
+5. The application is hosted on "http://iknow.xyz/PHPWebpageParser/" which gives you a live demo.
 
 
